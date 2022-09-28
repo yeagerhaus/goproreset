@@ -1,0 +1,9 @@
+{
+"current_password":"",
+"token":"",
+"wifi_ap":{
+"ssid":"CAMERA_NAME",
+"password":"WIFI_PASSWORD"
+},
+"wifi_networks":[]
+}
